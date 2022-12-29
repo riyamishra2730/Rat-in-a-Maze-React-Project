@@ -1,1 +1,1 @@
-# Rat-in-a-Maze-React-Project
+# html-css-js-project-boilerplate
